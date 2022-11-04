@@ -2,10 +2,10 @@
 <img src="https://user-images.githubusercontent.com/108841917/199867819-61326c18-355f-42f4-8a81-9e31575d655c.png" alt="my banner">
 <p>
 
-## Welcome
+<h2 align="center">Welcome!!</h2>
 
   
- ### My name is Joyce. I'm a Front-End Developer and also a translator
+<h3 align="center"> My name is Joyce. I'm a Front-End Developer and also a translator</h3>
 <!--
 **joyceams/joyceams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
