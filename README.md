@@ -12,19 +12,12 @@
 
 - 🔭 I’m currently working on *a very special project*
 - 🌱 I’m currently learning REACT
-- 📫 How to reach me: ...
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/joyceamusan/"><img align=”left” src=”https://raw.githubusercontent.com/joyceams/joyceams/main/Images/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
 - 😄 Pronouns: She | Her
 - ⚡ Fun fact: I love learning languages, Japanese's N5 is my current goal
 
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=joyceams&show_icons=true&theme=transparent)" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=joyceams&layout=compact)" />
-</a>
-  <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyceams&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyceams&layout=compact)](https://github.com/joyceams)
--->
+
