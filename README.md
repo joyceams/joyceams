@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on *a very special project*
 - 🌱 I’m currently learning REACT
-- 📫 How to reach me: <br><a href="https://www.linkedin.com/in/joyceamusan/"><img align="left" src="https://raw.githubusercontent.com/joyceams/joyceams/main/Images/linkedin.png" alt="icon | LinkedIn" width="21px"/></a>
+- 📫 How to reach me: <br><a href="https://www.linkedin.com/in/joyceamusan/"><img align="left" src="https://raw.githubusercontent.com/joyceams/joyceams/main/Images/linkedinicon.png" alt="icon | LinkedIn" width="21px"/></a><br>
 - 😄 Pronouns: She | Her
 - ⚡ Fun fact: I love learning languages, Japanese's N5 is my current goal
 
