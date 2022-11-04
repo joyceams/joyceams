@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on *a very special project*
 - 🌱 I’m currently learning REACT
-- 📫 How to reach me: <br><a href="https://www.linkedin.com/in/joyceamusan/"><img align="left" src="https://raw.githubusercontent.com/joyceams/joyceams/main/Images/linkedinicon.png" alt="icon | LinkedIn" width="21px"/></a><br>
+- 📫 How to reach me: <br><a href="https://www.linkedin.com/in/joyceamusan/"><img align="center" src="https://raw.githubusercontent.com/joyceams/joyceams/main/Images/linkedinicon.png" alt="icon | LinkedIn" width="21px"/></a><br>
 - 😄 Pronouns: She | Her
 - ⚡ Fun fact: I love learning languages, Japanese's N5 is my current goal
 
@@ -20,4 +20,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyceams&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyceams&layout=compact)](https://github.com/joyceams)
+  
+-<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
 
