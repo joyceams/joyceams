@@ -31,7 +31,7 @@
 <img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
 --
 
-### Projects:
+### :books: Projects:
 <p align="center"><a href="https://hilarious-bienenstitch-f0ab2d.netlify.app/">Secret Translator</a><br>
 Web page for a translator that uses Caesar's Cypher to encrypt and decrypt messages</p>
 <p align="center"><a href="https://precious-lollipop-8a5258.netlify.app/">Lol-overs</a><br>
