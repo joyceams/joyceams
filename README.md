@@ -40,7 +40,7 @@ Web page for the League of Legends champions database using an API</p>
 A social network to share recommendations and opinions about their favourite mangas</p>
 <p align="center"><a href="https://fanciful-trifle-865ddd.netlify.app/">Dog Lovers</a><br>
 A webpage that consumes an API. It filters and sorts de information</p>
-<p align="center"><a href="">Minimal Notes</a><br>
+<p align="center"><a href="https://minimalnotes-369523.web.app/">Minimal Notes</a><br>
 Note application with a minimal design</p>
 
 ---
