@@ -30,6 +30,21 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 <img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
 --
+
+### Projects:
+<p align="center"><a href="https://hilarious-bienenstitch-f0ab2d.netlify.app/">Secret Translator</a><br>
+Web page for a translator that uses Caesar's Cypher to encrypt and decrypt messages</p>
+<p align="center"><a href="https://precious-lollipop-8a5258.netlify.app/">Lol-overs</a><br>
+Web page for the League of Legends champions database using an API</p>
+<p align="center"><a href="https://polite-kataifi-52414f.netlify.app/">MangaReads</a><br>
+A social network to share recommendations and opinions about their favourite mangas</p>
+<p align="center"><a href="https://fanciful-trifle-865ddd.netlify.app/">Dog Lovers</a><br>
+A webpage that consumes an API. It filters and sorts de information</p>
+<p align="center"><a href="">Minimal Notes</a><br>
+Note application with a minimal design</p>
+
+---
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyceams&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyceams&layout=compact)](https://github.com/joyceams)
